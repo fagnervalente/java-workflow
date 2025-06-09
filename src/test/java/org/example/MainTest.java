@@ -8,6 +8,6 @@ class MainTest {
 
     @Test
     void sum_with_positives() {
-        assertEquals(1, Main.sum(1,1));
+        assertEquals(2, Main.sum(1,1));
     }
 }
