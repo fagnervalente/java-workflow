@@ -6,8 +6,7 @@
 
 Description of what was done in a few words
 
-#### Aditional info
+#### Choose template
 
-- [ ] added new component text field
-- [ ] changed existing java model
-- [ ] created/changed unit test
+[Unit Test Template](?template=unit_test_template.md)
+[Model Template](?template=model_template.md)
